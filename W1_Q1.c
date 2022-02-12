@@ -18,6 +18,6 @@ int main()
     puts(Name);
     puts(Branch);
     puts(Hobby);
-    printf(Regd);
+    printf("%d",Regd);
     return 0;
 }
