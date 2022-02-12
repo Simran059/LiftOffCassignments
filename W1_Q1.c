@@ -12,7 +12,7 @@ int main()
     gets(Hobby);
 
     int Regd;
-    printf("Enter your registration number: \n");
+    printf("Enter your Registration number: \n");
     scanf("%d", &Regd);
 
     puts(Name);
